@@ -1,7 +1,7 @@
 # Visualize finite resources consumption
 
 This is a simple Jupyter notebook, to visualize the consumption of finite resources.
-
+![finite resources](finiteresources.png)
 ## Installation
 
 Make sure you have an anaconda environment with python 3 numpy and matplotlib installed.
