@@ -39,6 +39,7 @@ start the jupyter notebook in bash
 ```bash
 jupyter notebook
 ```
+Surf to the url that pops up in the terminal
 
 ## Contributing
 It's foss
