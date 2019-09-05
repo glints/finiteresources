@@ -8,23 +8,24 @@ Make sure you have an anaconda environment with python 3 numpy and matplotlib in
 On Mac:
 [Install conda](https://docs.anaconda.com/anaconda/install/mac-os/)
 
-create a new environment:
+Create a new environment:
 
 ```bash
 conda create --name python37
 ```
 
-clone this repository and cd into it
+Clone this repository and cd into it
 
 ```bash
 git clone git@github.com:glints/finiteresources.git
 ```
 
-activate your new conda environment
+Activate your new conda environment:
 
 ```bash
 conda activate python37
 ```
+Install the necessary packages in conda:
 
 ```bash
 conda install python=3.7
@@ -39,7 +40,7 @@ start the jupyter notebook in bash
 ```bash
 jupyter notebook
 ```
-Surf to the url that pops up in the terminal
+Surf to the url that pops up in the terminal.
 
 ## Contributing
 It's foss
